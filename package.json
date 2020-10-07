@@ -1,0 +1,17 @@
+{
+  "name": "taskmanager",
+  "version": "0.0.1",
+  "description": "JavaScript program to simulate a task manager using nodejs and mongoose",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.8",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joyal Thomas",
+  "license": "ISC"
+}
